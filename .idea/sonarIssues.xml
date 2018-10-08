@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resources/META-INF/MANIFEST.MF">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/company/ReadMailSample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/company/ReadMailSample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Learning_Project/LMS-BackEnd/kp-lms-microservices/content-service/src/main/java/com/dewsolutions/kp/lms/contentservice/v1/service/ContentService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Learning_Project/LMS-BackEnd/kp-lms-microservices/gateway-desktop/src/main/java/com/dewsolutions/kp/lms/api/desktop/assessment/v1/controller/ASUserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Learning_Project/LMS-BackEnd/kp-lms-microservices/gateway-desktop/src/main/java/com/dewsolutions/kp/lms/api/desktop/utils/FunctionalUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Learning_Project/LMS-BackEnd/kp-lms-microservices/gateway-desktop/src/main/java/com/dewsolutions/kp/lms/api/desktop/v1/controllers/AdminConfigurationController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Learning_Project/LMS-BackEnd/kp-lms-microservices/gateway-desktop/src/main/java/com/dewsolutions/kp/lms/api/desktop/v1/controllers/AnalyticsController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Learning_Project/LMS-BackEnd/kp-lms-microservices/gateway-desktop/src/main/java/com/dewsolutions/kp/lms/api/desktop/v1/controllers/ContentController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Learning_Project/LMS-BackEnd/kp-lms-microservices/gateway-desktop/src/main/java/com/dewsolutions/kp/lms/api/desktop/v1/controllers/ContentUserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Learning_Project/LMS-BackEnd/kp-lms-microservices/gateway-desktop/src/main/java/com/dewsolutions/kp/lms/api/desktop/v1/controllers/LRSController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Learning_Project/LMS-BackEnd/kp-lms-microservices/gateway-desktop/src/main/java/com/dewsolutions/kp/lms/api/desktop/v1/controllers/ReportsController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Learning_Project/LMS-BackEnd/kp-lms-microservices/gateway-desktop/src/main/java/com/dewsolutions/kp/lms/api/desktop/v1/controllers/SearchController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Learning_Project/LMS-BackEnd/kp-lms-microservices/gateway-desktop/src/main/java/com/dewsolutions/kp/lms/api/desktop/v2/controllers/ContentControllerV2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Learning_Project/LMS-BackEnd/kp-lms-microservices/gateway-desktop/src/main/java/com/dewsolutions/kp/lms/aws/AWSService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Learning_Project/LMS-BackEnd/kp-lms-microservices/nats/src/main/java/com/dewsolutions/kp/lms/nats/utils/Constants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Learning_Project/LMS-BackEnd/kp-lms-microservices/nats/src/main/java/com/dewsolutions/kp/lms/nats/utils/EnumUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Learning_Project/LMS-BackEnd/kp-lms-microservices/nats/src/main/resources/AdminProto.proto">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Learning_Project/LMS-BackEnd/kp-lms-microservices/nats/src/main/resources/NatsProtos.proto">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Learning_Project/LMS-BackEnd/kp-lms-microservices/user-service/src/main/java/com/dewsolutions/kp/lms/userservice/utils/CommonUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Learning_Project/LMS-BackEnd/kp-lms-microservices/user-service/src/main/java/com/dewsolutions/kp/lms/userservice/utils/FunctionalUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Learning_Project/LMS-BackEnd/kp-lms-microservices/user-service/src/main/java/com/dewsolutions/kp/lms/userservice/v1/service/PublicService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Learning_Project/LMS-BackEnd/kp-lms-microservices/user-service/src/main/java/com/dewsolutions/kp/lms/userservice/v1/service/ReportsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../WebsiteScraping/src/com/dps/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../WebsiteScraping/src/com/dps/WebScraping.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

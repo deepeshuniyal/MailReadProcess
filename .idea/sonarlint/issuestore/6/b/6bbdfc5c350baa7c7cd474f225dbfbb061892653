@@ -1,0 +1,49 @@
+
+8squid:S1148"#Use a logger to log this exception.(Ç’Çê
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÉûÈêüÿÿÿÿ
+@squid:S2885"+Make "fileDateFormat" an instance variable.(·è‰‹
+<squid:S2885"'Make "dateFormat" an instance variable.(¼„œ¬
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(„’„Àÿÿÿÿÿ
+Csquid:S1068")Remove this unused "inbox" private field.(áµ¨´ÿÿÿÿÿ
+=squid:S1481")Remove this unused "flag" local variable.( ËÅn
+Osquid:S1191"5Use classes from the Java API instead of Sun classes.(È¿¥Ëûÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÄÀ–¦ÿÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(ôÁ ´ùÿÿÿÿ
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ĞÇ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(úÊ£˜
+Csquid:S1068")Remove this unused "store" private field.(İîï†şÿÿÿÿ
+^squid:S1192"IDefine a constant instead of duplicating this literal "</table>" 3 times.(ë«Î—
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(êí
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±¯€¤
+[squid:S1192"FDefine a constant instead of duplicating this literal "</td>" 3 times.( óïÀ
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‚Ï_
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(×Ê¹ğ
+[squid:S1192"FDefine a constant instead of duplicating this literal "</tr>" 4 times.(—ª»ÿ
+Esquid:S1068"+Remove this unused "session" private field.(üÚ‰«øÿÿÿÿ
+isquid:S3008"TRename this field "StartDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ§¹
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(êª€Ùúÿÿÿÿ
+Zsquid:CallToDeprecatedMethod"/Remove this use of "getYear"; it is deprecated.(šÇ‘æúÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(æÜÚ—ÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(­Ô§ãüÿÿÿÿ
+Xsquid:UselessImportCheck"7Remove this unused import 'javax.mail.search.FlagTerm'.(ÓØÛz
+[squid:CallToDeprecatedMethod"0Remove this use of "getMonth"; it is deprecated.(ºşüÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(äæ¾¢ÿÿÿÿÿ
+gsquid:S3008"RRename this field "EndDate" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç±½œ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ì‰­Â
+[
+squid:S899"BDo something with the "boolean" value returned by "createNewFile".(ôü¿Ÿÿÿÿÿÿ
+Msquid:UselessParenthesesCheck"!Remove these useless parentheses.(äæ¾¢ÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(”“î€
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÙØ¤Şıÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÄÀ–¦ÿÿÿÿÿ
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ı¢¿q
+csquid:S2095"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(‘…éúÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(øŒË£
+=squid:S1148"#Use a logger to log this exception.(ôÁ ´ùÿÿÿÿ
+[squid:CallToDeprecatedMethod"0Remove this use of "getMonth"; it is deprecated.(šÇ‘æúÿÿÿÿ
+Rsquid:S1197"8Move the array designator from the variable to the type.(å‹ùÍÿÿÿÿÿ

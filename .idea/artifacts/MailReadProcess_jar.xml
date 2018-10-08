@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MailReadProcess:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MailReadProcess_jar</output-path>
+    <root id="archive" name="MailReadProcess.jar">
+      <element id="module-output" name="MailReadProcess" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../external lib/dsn.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../external lib/google-maps-services-0.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../external lib/imap.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../external lib/mailapi.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../external lib/pop3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../external lib/smtp.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
